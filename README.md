@@ -1,18 +1,18 @@
-[<div align="center">
+<div align="center">
 
-# ANKIT TADIYAL
+# 👋 Hi, I'm Ankit Tadiyal
 
-### `Information Technology Student • Full-Stack Developer • Problem Solver`
+### Information Technology Student • Full-Stack Developer • Problem Solver
 
 <p>
+  <a href="https://github.com/ankittadiyal">
+    <img src="https://img.shields.io/badge/GitHub-Ankit%20Tadiyal-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ankittadiyal/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ankit%20Tadiyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:tadiyalankit1234@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -22,180 +22,190 @@
 
 ## 👨‍💻 About Me
 
-I'm an **Information Technology undergraduate at Guru Gobind Singh Indraprastha University**, focused on building efficient, scalable, and user-centric software.
+I'm an **Information Technology undergraduate** passionate about building efficient, scalable and user-focused software solutions.
 
-* 🎓 **B.Tech – Information Technology** | 2023–2027
-* 📊 **CGPA:** 8.98 / 10
-* 🧠 Strong foundation in **Data Structures, Algorithms & OOP**
-* 🌐 Interested in **Full-Stack Web Development**
-* 🚀 Passionate about building practical software solutions
-* 📍 Delhi, India
+* 🎓 B.Tech in Information Technology
+* 📊 CGPA: **8.98 / 10**
+* 💻 Interested in **Full-Stack Development, DSA & Software Engineering**
+* 🧠 Strong foundation in **Data Structures, Algorithms, OOP, DBMS and OS**
+* 🚀 Love building practical projects and solving programming problems
+* 🤝 Comfortable working in collaborative development environments
 
 ---
 
-# ⚡ Tech Stack
+# 🛠️ Tech Stack
 
-## 💻 Languages
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="90"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="90"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="90"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="90"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="90"/>
-
-</div>
+## 💻 Programming Languages
 
 <p align="center">
-<b>C++</b> &nbsp;&nbsp; <b>Java</b> &nbsp;&nbsp; <b>Python</b> &nbsp;&nbsp; <b>JavaScript</b> &nbsp;&nbsp; <b>SQL</b>
+
+<a href="https://isocpp.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="75" height="75" />
+</a>
+
+<a href="https://www.java.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="75" height="75" />
+</a>
+
+<a href="https://www.python.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="75" height="75" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75" height="75" />
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="75" height="75" />
+</a>
+
 </p>
 
 ---
 
-## 🎨 Frontend
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="75"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="75"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="75"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="75"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="75"/>
-
-</div>
+## 🌐 Frontend Development
 
 <p align="center">
-HTML5 • CSS3 • React • Tailwind CSS • TypeScript
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="75" height="75" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="75" height="75" />
+</a>
+
+<a href="https://react.dev/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="75" height="75" />
+</a>
+
+<a href="https://tailwindcss.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="75" height="75" />
+</a>
+
+<a href="https://www.typescriptlang.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="75" height="75" />
+</a>
+
 </p>
 
 ---
 
-## ⚙️ Backend & Data
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="70"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="70"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="70"/>
-
-</div>
+## ⚙️ Backend & Databases
 
 <p align="center">
-Python • FastAPI • PostgreSQL • MySQL • Ruby on Rails
+
+<a href="https://www.python.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="75" height="75" />
+</a>
+
+<a href="https://fastapi.tiangolo.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="75" height="75" />
+</a>
+
+<a href="https://www.postgresql.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="75" height="75" />
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="75" height="75" />
+</a>
+
+<a href="https://rubyonrails.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="75" height="75" />
+</a>
+
 </p>
 
 ---
 
-## 🛠️ Tools & Platforms
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65"/>
-
-</div>
+## 🔧 Tools & Platforms
 
 <p align="center">
-Git • Docker • Linux • VS Code
+
+<a href="https://git-scm.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="75" height="75" />
+</a>
+
+<a href="https://www.docker.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="75" height="75" />
+</a>
+
+<a href="https://www.linux.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="75" height="75" />
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="75" height="75" />
+</a>
+
 </p>
 
 ---
 
 # 🧠 Core Computer Science
 
-<div align="center">
+<p align="center">
 
-`Data Structures & Algorithms`
-`Object-Oriented Programming`
-`Database Management Systems`
-`Operating Systems`
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DBMS-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Operating%20Systems-181717?style=for-the-badge" />
 
-</div>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌊 FloatChat
+## 🌊 FloatChat — AI Powered Conversational Interface for ARGO Ocean Data
 
-### AI-Powered Conversational Interface for ARGO Ocean Data
+**Tech Stack:**
+`React` `Tailwind CSS` `TypeScript` `Python` `PostgreSQL` `FastAPI` `Plotly` `Leaflet` `FAISS` `Chroma`
 
-**React · Tailwind CSS · TypeScript · Python · PostgreSQL · FastAPI · Plotly · Leaflet · FAISS/Chroma**
-
-> A conversational platform designed to make complex ARGO ocean data easier to explore and understand.
-
-* 🌊 Processes ARGO NetCDF files into structured databases
-* 🗄️ Uses PostgreSQL for structured data
-* 🔎 Uses FAISS/Chroma for vector search
-* 🤖 Enables intelligent querying of ocean data
-* 📊 Uses Plotly and Leaflet for visualization
-* 🧩 Designed for scalability and modularity
-* 🛰️ Designed for future BGC, glider, and satellite dataset integration
+* Processes ARGO Ocean NetCDF datasets into structured databases.
+* Uses **PostgreSQL** for structured/tabular information.
+* Uses **FAISS/Chroma** for vector search and intelligent retrieval.
+* Provides a conversational interface for querying oceanographic data.
+* Designed as a scalable and modular platform for learning, research and decision-making.
+* Architecture allows future integration of BGC, glider and satellite datasets.
 
 ---
 
-## 🧩 Algorithm Visualiser
+## 📊 Algorithm Visualiser
 
-### Interactive Algorithm Visualization Platform
+**Tech Stack:**
+`Java` `HTML5` `CSS3` `JavaScript` `jQuery`
 
-**Java · HTML5 · CSS3 · JavaScript · jQuery**
-
-> An interactive web-based tool for visualizing algorithms step-by-step.
-
-* 🔢 Sorting algorithm visualization
-* 🕸️ Graph traversal visualization
-* 👁️ Step-by-step algorithm execution
-* 🧱 Modular and reusable components
-* 🔌 Easy integration of new algorithms
+* Interactive web-based algorithm visualization tool.
+* Visualizes sorting algorithms step-by-step.
+* Includes graph traversal visualizations.
+* Built using modular and reusable components.
+* New algorithms can be integrated with minimal code changes.
 
 ---
 
 ## ✅ Task Management Web Application
 
-### Full-Stack Task Tracking Platform
+**Tech Stack:**
+`HTML` `CSS` `jQuery` `Ruby on Rails` `PostgreSQL`
 
-**HTML · CSS · jQuery · Ruby on Rails · PostgreSQL**
-
-> A full-stack task management application with authentication, role-based access, and real-time status updates.
-
-* 🔐 User authentication
-* 👥 Role-based access
-* 🔄 Real-time status updates
-* 🌐 RESTful API
-* 🏗️ MVC architecture
-* 🗄️ PostgreSQL
-* ⚡ Reduced database load time by **30%**
-* 🧪 Unit testing and code reviews
+* Full-stack task management platform.
+* User authentication and role-based access control.
+* Real-time task status updates through REST APIs.
+* Follows the MVC architecture.
+* Optimized PostgreSQL queries and reduced load time by **30%**.
+* Includes unit testing and code review practices.
 
 ---
 
-# 📊 GitHub Statistics
+# 📈 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ankittadiyal&show_icons=true&hide_border=true&rank_icon=github" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankittadiyal&layout=compact&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -205,81 +215,91 @@ Git • Docker • Linux • VS Code
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=black-ice&hide_border=true&background=000000"/>
+<a href="https://github.com/ankittadiyal">
+
+<img src="https://streak-stats.demolab.com/?user=ankittadiyal&hide_border=true" />
+
+</a>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
+<a href="https://github.com/ankittadiyal">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankittadiyal&hide_border=true&area=true" />
+
+</a>
 
 </div>
 
 ---
 
-# 💡 What I Focus On
+# 💪 Key Strengths
 
-<div align="center">
+<p align="center">
 
-### 🧠 Problem Solving
+<img src="https://img.shields.io/badge/Problem%20Solving-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DSA-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Full--Stack%20Development-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Code%20Quality-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Team%20Collaboration-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Adaptability-181717?style=for-the-badge" />
 
-Data Structures • Algorithms • Analytical Thinking
-
-### 🌐 Full-Stack Development
-
-Modern Frontend • Backend • Databases • REST APIs
-
-### 🏗️ Software Engineering
-
-Scalable Architecture • Clean Code • Reusable Components
-
-### 🤝 Professional Growth
-
-Collaboration • Adaptability • Continuous Learning
-
-</div>
+</p>
 
 ---
 
-# 📫 Contact Me
+# 🎯 Current Focus
+
+```text
+Data Structures & Algorithms
+        +
+Full-Stack Web Development
+        +
+Software Engineering
+        ↓
+Building scalable & user-focused applications
+```
+
+---
+
+# 📫 Connect With Me
 
 <div align="center">
 
-### 📧 [tadiyalankit1234@gmail.com](mailto:tadiyalankit1234@gmail.com)
+<a href="https://github.com/ankittadiyal">
+<img src="https://img.shields.io/badge/GitHub-ankittadiyal-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### 📱 +91-8595568916
-
-<br>
+<a href="https://www.linkedin.com/in/ankittadiyal/">
+<img src="https://img.shields.io/badge/LinkedIn-Ankit%20Tadiyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 <a href="mailto:tadiyalankit1234@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL_ME-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
- 
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
- 
-
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-tadiyalankit1234%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
-<br>
+<p align="center">
+
+📍 Delhi, India
+📞 +91-8595568916
+📧 [tadiyalankit1234@gmail.com](mailto:tadiyalankit1234@gmail.com)
+
+</p>
+
+---
 
 <div align="center">
 
-### Thanks for visiting my profile.
+### ⭐ Thanks for visiting my profile!
 
-`Build • Learn • Improve • Repeat`
+**Let's build something impactful together.**
 
 </div>
-]
